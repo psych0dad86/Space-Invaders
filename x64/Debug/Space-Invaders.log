@@ -1,2 +1,7 @@
-﻿  main.cpp
+﻿  Window.cpp
+C:\Users\kiril\source\repos\Space-Invaders\Window.cpp(56,39): warning C4244: "Argument": Konvertierung von "T" in "float", möglicher Datenverlust
+C:\Users\kiril\source\repos\Space-Invaders\Window.cpp(56,39): warning C4244:         with
+C:\Users\kiril\source\repos\Space-Invaders\Window.cpp(56,39): warning C4244:         [
+C:\Users\kiril\source\repos\Space-Invaders\Window.cpp(56,39): warning C4244:             T=unsigned int
+C:\Users\kiril\source\repos\Space-Invaders\Window.cpp(56,39): warning C4244:         ]
   Space-Invaders.vcxproj -> C:\Users\kiril\source\repos\Space-Invaders\x64\Debug\Space-Invaders.exe
